@@ -1,0 +1,2 @@
+# topicmodeling
+Topic modeling provides methods for automatically organizing, understanding, searching, and summarizing large electronic archives. It can help with the following: discovering the hidden themes in the collection. classifying the documents into the discovered themes. using the classification to organize/summarize/search the documents.Latent Dirichlet Allocation: http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/
